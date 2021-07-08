@@ -1,0 +1,195 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Thor",
+      "image": "https://cdn.mos.cms.futurecdn.net/y5QvzV8jhsbQmaeAMpZp7V-1200-80.jpg",
+      "genre": "Action, Adenture, comedy",
+      "director": "Taika Waititi",
+      "stars": "Chris Hemsworth, Tom Hiddleston, Cate Blanchett, Mark Ruffalo",
+      "plot": "Thor is imprisoned on the planet Sakaar, and must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela.",
+      "currency": "THB",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+      }
+    },
+    {
+      "id": 2,
+      "title": "Wonder woman",
+      "genre": "Action, Adenture, Fantasy",
+      "director": "Patty Jenkins",
+      "stars": "Gal Gadot, Chris Pine, Robin Wright, Lucy Davis",
+      "plot": "When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny.",
+      "image": "https://i.ytimg.com/vi/VSB4wGIdDwo/maxresdefault.jpg",
+      "currency": "THB",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+      }
+    },
+    {
+      "id": 3,
+      "title": "Logan",
+      "genre": "Action, Drama, Sci-Fi",
+      "director": "James Mangold ",
+      "stars": "Hugh Jackman, Patrick Stewart, Dafne Keen, Boyd Holbrook",
+      "plot": "In the near future, a weary Logan cares for an ailing Professor X, somewhere on the Mexican border. However, Logan's attempts to hide from the world, and his legacy, are upended when a young mutant arrives, pursued by dark forces.",
+      "image": "https://media.comicbook.com/2017/03/wolverine-trilogy-239008-1280x0.jpg",
+      "currency": "THB",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+      }
+    },
+    {
+      "id": 4,
+      "title": "Despicable me 3",
+      "genre": "Action, Drama, Sci-Fi",
+      "director": "James Mangold ",
+      "stars": "Hugh Jackman, Patrick Stewart, Dafne Keen, Boyd Holbrook",
+      "plot": "Gru meets his long-lost charming, cheerful, and more successful twin brother Dru who wants to team up with him for one last criminal heist.",
+      "image": "https://i.ytimg.com/vi/6DBi41reeF0/maxresdefault.jpg",
+      "currency": "THB",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+      }
+    },
+    {
+      "id": 5,
+      "title": "Star war",
+      "genre": "Action, Drama, Sci-Fi",
+      "director": "James Mangold ",
+      "stars": "Hugh Jackman, Patrick Stewart, Dafne Keen, Boyd Holbrook",
+      "plot": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares for battle with the First Order.",
+      "image": "https://lumiere-a.akamaihd.net/v1/images/the-last-jedi-theatrical-poster-tall-a_6a776211.jpeg?region=0%2C53%2C1536%2C768&width=960",
+      "currency": "THB",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+      }
+    },
+    {
+      "id": 6,
+      "title": "Pitch Perfect 3",
+      "genre": "Animation, Action, Adventure",
+      "director": "Trish Sie",
+      "stars": "Anna Kendrick, Rebel Wilson, Brittany Snow, Anna Camp",
+      "plot": "Following their win at the world championship, the now separated Bellas reunite for one last singing competition at an overseas USO tour, but face a group who uses both instruments and voices.",
+      "image": "https://i.ytimg.com/vi/Hihto8onbUU/maxresdefault.jpg",
+      "currency": "THB",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+      }
+    },
+    {
+      "id": 7,
+      "title": "Opération casse-noisette 2",
+      "genre": "Animation, Action, Adventure",
+      "director": "Cal Brunker",
+      "stars": "Will Arnett, Maya Rudolph, Bobby Cannavale, Bobby Moynihan",
+      "plot": "Following the events of the first film, Surly and his friends must stop Oakton City's mayor from destroying their home to make way for a dysfunctional amusement park.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61E71MXCHLS._SL1000_.jpg",
+      "currency": "THB",
+      "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+      }
+    }
+  ],
+  "transactions": [
+    {
+      "movieId": 4,
+      "price": 200,
+      "currency": "THB",
+      "userId": "he6fe54u4s56o71d36z51no",
+      "id": 1
+    },
+    {
+      "movieId": 2,
+      "price": 300,
+      "currency": "THB",
+      "userId": "he6fe54u4s56o71d36z51no",
+      "id": 2
+    },
+    {
+      "movieId": 5,
+      "price": 300,
+      "currency": "THB",
+      "userId": "he6fe54u4s56o71d36z51no",
+      "id": 3
+    },
+    {
+      "movieId": 3,
+      "price": 400,
+      "currency": "THB",
+      "userId": "",
+      "id": "kqh2nmv2"
+    },
+    {
+      "movieId": 3,
+      "price": 1200,
+      "currency": "THB",
+      "userId": "",
+      "id": "kqh4r3pz"
+    },
+    {
+      "movieId": 3,
+      "price": 400,
+      "currency": "THB",
+      "userId": "kqh4rmk4",
+      "id": "kqh4rmk5"
+    },
+    {
+      "movieId": 4,
+      "price": 0,
+      "currency": "THB",
+      "userId": "kqh4u7zi",
+      "id": "kqh4u7zj"
+    },
+    {
+      "movieId": 4,
+      "price": 0,
+      "currency": "THB",
+      "userId": "kqh52lqg",
+      "id": "kqh52lqh"
+    },
+    {
+      "movieId": 4,
+      "price": 400,
+      "currency": "THB",
+      "userId": "kqh546zi",
+      "id": "kqh546zj"
+    },
+    {
+      "movieId": 4,
+      "price": 600,
+      "currency": "THB",
+      "userId": "kqh54rri",
+      "id": "kqh54rrj"
+    },
+    {
+      "movieId": 4,
+      "price": 1200,
+      "currency": "THB",
+      "userId": "kqh566of",
+      "id": "kqh566og"
+    },
+    {
+      "movieId": 1,
+      "price": 600,
+      "currency": "THB",
+      "userId": "kqh57z7p",
+      "id": "kqh57z7q"
+    }
+  ]
+}
